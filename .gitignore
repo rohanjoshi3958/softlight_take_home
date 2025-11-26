@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment
+.env
+
+# Screenshots and outputs
+screenshots/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
